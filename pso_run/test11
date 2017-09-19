@@ -1,0 +1,132 @@
+pushing2
+pushing31
+pushing32
+fitt 13.0384
+fitt 13.4164
+fitt 12.53
+best particle:12.53
+best particle in swarm 32
+ next pos of particle 0 =3 at0,2  velociy =1.14444
+ next pos of particle 1 =32 at1,1  velociy =1.14444
+ next pos of particle 2 =32 at1,1  velociy =0.3
+with gpbest goal: 12.53
+fitt 12.2066
+fitt 12.53
+fitt 12.53
+best particle:12.2066
+best particle in swarm 3
+ next pos of particle 0 =3 at0,2  velociy =0.343333
+ next pos of particle 1 =33 at1,2  velociy =1.71714
+ next pos of particle 2 =38 at1,7  velociy =6.87822
+with gpbest goal: 12.2066
+fitt 12.2066
+fitt 11.6619
+fitt 7.81025
+best particle:7.81025
+best particle in swarm 38
+ next pos of particle 0 =10 at0,9  velociy =7.46825
+ next pos of particle 1 =46 at1,15  velociy =13.0151
+ next pos of particle 2 =40 at1,9  velociy =2.06347
+with gpbest goal: 7.81025
+fitt 7.61577
+fitt 6.7082
+fitt 6.7082
+best particle:6.7082
+best particle in swarm 46
+ next pos of particle 0 =21 at0,20  velociy =11.9729
+ next pos of particle 1 =49 at1,18  velociy =3.90454
+ next pos of particle 2 =49 at1,18  velociy =9.61904
+with gpbest goal: 6.7082
+fitt 10.6301
+fitt 8.48528
+fitt 8.48528
+best particle:8.48528
+ next pos of particle 0 =46 at1,15  velociy =25.106
+ next pos of particle 1 =51 at1,20  velociy =2.88565
+ next pos of particle 2 =53 at1,22  velociy =4.08571
+with gpbest goal: 6.7082
+fitt 6.7082
+fitt 10
+fitt 11.6619
+best particle:6.7082
+ next pos of particle 0 =53 at1,22  velociy =7.53179
+ next pos of particle 1 =57 at1,26  velociy =6.86569
+ next pos of particle 2 =66 at2,5  velociy =13.8257
+with gpbest goal: 6.7082
+fitt 11.6619
+fitt 15.2315
+fitt 8.60233
+best particle:8.60233
+ next pos of particle 0 =84 at2,23  velociy =31.9654
+ next pos of particle 1 =124 at4,3  velociy =67.0835
+ next pos of particle 2 =75 at2,14  velociy =9.8905
+with gpbest goal: 6.7082
+fitt 12.083
+fitt 9.48683
+fitt 5.38516
+best particle:5.38516
+best particle in swarm 75
+ next pos of particle 0 =106 at3,15  velociy =22.7896
+ next pos of particle 1 =158 at5,7  velociy =34.6595
+ next pos of particle 2 =77 at2,16  velociy =2.96715
+with gpbest goal: 5.38516
+fitt 5
+fitt 5.38516
+fitt 6.40312
+best particle:5
+best particle in swarm 106
+ next pos of particle 0 =112 at3,21  velociy =6.83688
+ next pos of particle 1 =179 at5,28  velociy =21.1179
+ next pos of particle 2 =79 at2,18  velociy =2.87004
+with gpbest goal: 5
+fitt 9.84886
+fitt 16.1245
+fitt 7.81025
+best particle:7.81025
+ next pos of particle 0 =140 at4,19  velociy =28.5809
+ next pos of particle 1 =258 at11,18  velociy =79.8278
+ next pos of particle 2 =83 at2,22  velociy =4.02329
+with gpbest goal: 5
+fitt 7.61577
+fitt 7.2111
+fitt 11.1803
+best particle:7.2111
+ next pos of particle 0 =166 at5,15  velociy =26.8395
+ next pos of particle 1 =299 at13,5  velociy =41.0363
+ next pos of particle 2 =98 at3,7  velociy =15.0123
+with gpbest goal: 5
+fitt 3.60555
+fitt 9.21954
+fitt 6.40312
+best particle:3.60555
+best particle in swarm 166
+ next pos of particle 0 =174 at5,23  velociy =8.05185
+ next pos of particle 1 =324 at14,0  velociy =25.9709
+ next pos of particle 2 =117 at3,26  velociy =19.1636
+with gpbest goal: 3.60555
+fitt 11.1803
+fitt 13.8924
+fitt 14.5602
+best particle:11.1803
+ next pos of particle 0 =179 at5,28  velociy =5.97111
+ next pos of particle 1 =383 at16,7  velociy =59.2424
+ next pos of particle 2 =169 at5,18  velociy =52.2732
+with gpbest goal: 3.60555
+fitt 16.1245
+fitt 10.2956
+fitt 6.32456
+best particle:6.32456
+ next pos of particle 0 =200 at7,12  velociy =21.6247
+ next pos of particle 1 =414 at17,16  velociy =31.7675
+ next pos of particle 2 =186 at6,5  velociy =17.682
+with gpbest goal: 3.60555
+fitt 0
+fitt 10.7703
+fitt 7.07107
+best particle:0
+best particle in swarm 200
+ next pos of particle 0 =206 at7,29  velociy =6.4874
+ next pos of particle 1 =433 at18,13  velociy =19.2236
+ next pos of particle 2 =209 at8,2  velociy =23.4873
+with gpbest goal: 0
+ =15
